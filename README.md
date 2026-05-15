@@ -121,17 +121,17 @@ Results highlight the importance of robustness testing and realistic evaluation 
 ### Monthly Rank IC
 
 The monthly Rank IC series fluctuates around zero with significant variation across periods, indicating unstable predictive relationships between abnormal turnover and future returns.
-![Uploading image.png…]()
+![IC](images/IC.png)
 
 ### Extreme-Tail Portfolio Performance
 
 Extreme-tail portfolios showed temporary periods of divergence; however, cumulative performance differences were not consistently sustained over time.
 
-![Uploading image.png…]()
+![Extreme Tail](images/extreme_decile.png)
 
 ### Decile Portfolio Cumulative Excess Returns
 
 Decile portfolio results did not display strong monotonic ordering, suggesting limited signal strength after cross-sectional ranking and neutralization adjustments.
 
-![Uploading image.png…]()
+![10 Decile](images/10decile.png)
 
